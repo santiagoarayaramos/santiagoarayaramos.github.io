@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://santiagoarayaramos.github.io/sitemap.xml
